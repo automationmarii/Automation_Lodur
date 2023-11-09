@@ -1,0 +1,6 @@
+bin-debug/
+bin-release/
+/screenshots
+cypress/videos
+/node_modules
+cypress/screenshots

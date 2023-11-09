@@ -22,9 +22,9 @@ Test script which covers the current Lodur application scenarios using Cypress.
    4. Set Variable value – Specify the location where exactly node js is installed.
 
 3. In a shell, `cd` to the folder where you want to get the smoke test and get the test from source control:
-   `git clone Need to setup the git location`
+   `git clone https://github.com/automationmarii/Automation_Lodur.git`
 
-4. `cd lodur`
+4. `cd Automation_Lodur`
 
 5. `git pull`
 
